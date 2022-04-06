@@ -1,3 +1,3 @@
 I'm not paying for pro
 
-[Weird Obj](/weird.obj)
+[Weird Obj](https://github.com/danchepkwony/codepen_assets/blob/main/weird.obj)
