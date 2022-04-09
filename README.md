@@ -1,6 +1,6 @@
 # codepen_assets
 I'm not paying for pro
 
-[Link](/weird.obj)
+[Weird Obj](/weird.obj)
 
-[Link](/theEnd.mp3)
+[The End mp3](/theEnd.mp3)
